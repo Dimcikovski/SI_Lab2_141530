@@ -8,7 +8,7 @@
 
 ###  Control Flow Graph
 
-
+![alt text](https://github.com/Dimcikovski/SI_Lab2_141530/blob/master/cfg.png?raw=true)
 
 ### Цикломатска комплексност
 
